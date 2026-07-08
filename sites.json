@@ -1,0 +1,44 @@
+{
+  "sites": [
+    "openai.com",
+    "chatgpt.com",
+    "claude.ai",
+    "anthropic.com",
+    "gemini.google.com",
+    "bard.google.com",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "poe.com",
+    "huggingface.co",
+    "mistral.ai",
+    "chat.mistral.ai",
+    "deepseek.com",
+    "you.com",
+    "jasper.ai",
+    "writesonic.com",
+    "copy.ai",
+    "meta.ai",
+    "grok.x.ai",
+    "x.ai",
+    "cohere.com",
+    "together.ai",
+    "groq.com",
+    "phind.com",
+    "codeium.com",
+    "cursor.com",
+    "replit.com",
+    "v0.dev",
+    "bolt.new"
+  ],
+
+  "config": {
+    "orgName": "CIUSSS de la Capitale Nationale",
+    "cooldownHours": 24,
+    "requireCheckbox": true,
+    "showPersistentBanner": true,
+    "policyUrl": "",
+    "lang": "fr"
+  },
+
+  "message": ""
+}
