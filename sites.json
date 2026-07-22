@@ -32,7 +32,7 @@
   ],
 
   "config": {
-    "orgName": "CIUSSS de la Capitale Nationale",
+    "orgName": "",
     "cooldownHours": 24,
     "requireCheckbox": true,
     "showPersistentBanner": true,
