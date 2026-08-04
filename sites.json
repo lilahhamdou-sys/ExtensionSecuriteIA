@@ -200,7 +200,7 @@
     "zapier.com"
   ],
   "config": {
-    "orgName": "CIUSSS de la Capitale Nationale",
+    "orgName": "Santé Québec Capitale-Nationale – Universitaire",
     "cooldownHours": 24,
     "requireCheckbox": true,
     "showPersistentBanner": true,
