@@ -200,12 +200,12 @@
     "zapier.com"
   ],
   "config": {
-    "orgName": "Santé Québec Capitale-Nationale – Universitaire0",
+    "orgName": "Santé Québec Capitale-Nationale – Universitaire1",
     "cooldownHours": 24,
     "requireCheckbox": true,
     "showPersistentBanner": true,
-    "policyUrl": "https://github.com/lilahhamdou-sys/ExtensionSecuriteIA/edit/main/sites.json",
+    "policyUrl": "",
     "lang": "fr"
   },
-  "message": ""
+  "message": "Sensibilisationn"
 }
